@@ -72,6 +72,6 @@ Includes various visualizations such as:
 
 **Chandrika Chavva**  
 Passionate about Data Science, AI, and Data Analytics  
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandrika508/))
+[LinkedIn] : https://www.linkedin.com/in/chandrika508/
 
 ---
